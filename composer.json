@@ -1,0 +1,25 @@
+{
+    "name": "kalider/php-seb-generator",
+    "description": "Librari php untuk menggenerate konfigurasi SEB (Safe Exam Browser)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kalider\\PhpSebGenerator\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "require": {
+        "php": "^7.4",
+        "ext-openssl": "*",
+        "ext-zlib": "*",
+        "ndum/plist-parser": "^3.0.0"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit tests --testdox"
+    }
+}
