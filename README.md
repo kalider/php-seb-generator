@@ -2,7 +2,7 @@
 
 Librari ini menyediakan fitur generate konfigurasi [SEB](https://safeexambrowser.org/news_de.html) (Safe Exam Browser) terenkipsi.
 
-> > Terinspirasi oleh [ndum/laravel-seb](https://github.com/ndum/laravel-seb).
+> Terinspirasi oleh [ndum/laravel-seb](https://github.com/ndum/laravel-seb).
 
 ## Requirements
 
@@ -56,4 +56,4 @@ Directly via [GitHub](https://github.com/kalider/php-seb-generator/issues)
 
 ## License
 
-MIT License - [Detail](LICENSE)
+MIT License - [Detail](LISENCE)
